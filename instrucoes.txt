@@ -1,0 +1,6 @@
+abra o terminal e digite:
+npm install
+
+apos isso digite:
+npm run dev
+e abra o link passado em qualquer browser para ver o projeto
